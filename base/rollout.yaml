@@ -23,7 +23,7 @@ spec:
         tier: front
     spec:
       containers:
-      - image: schoolofdevops/vote:v8
+      - image: abhishek8056/abhi-vote:09634a2
         name: vote
         imagePullPolicy: Always
         resources: 
