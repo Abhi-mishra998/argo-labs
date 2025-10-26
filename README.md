@@ -457,11 +457,7 @@ This project is based on the **Ultimate Argo Bootcamp** course covering:
 - ✅ Event-driven automation with Argo Events
 - ✅ Monitoring with Prometheus and Grafana
 
-**Course Details:**
-- Rating: 4.2/5 ⭐
-- Students: 9,076+
-- Duration: 8 hours
-- Level: Intermediate
+
 
 ## 🤝 Contributing
 
